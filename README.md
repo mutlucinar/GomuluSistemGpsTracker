@@ -6,7 +6,7 @@ Projede;
 1 adet 10000mAh Powerbank
 1 adet 16gb MicroSd kart
 
-Yazılım, Rasbian işletim sistminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.
+Yazılım, Rasbian işletim sisteminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.
 
 1. Aşağıdaki Youtube Linkinde Proejmi detaylı olarak sunduğum video bulunmaktadır.                                      
 https://youtu.be/85GnNSOCazk
