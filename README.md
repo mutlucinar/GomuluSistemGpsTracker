@@ -9,9 +9,9 @@ Projede;
 Yazılım, Rasbian işletim sistminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.
 
 1. Aşağıdaki Youtube Linkinde Proejmi detaylı olarak sunduğum video bulunmaktadır.
+https://youtu.be/85GnNSOCazk
 
 2. Aşağıdaki Youtube Linkinde daha sunum yüzeysel olarak, yazılım daha detaylı olarak anlatılmıştır.
-
 https://www.youtube.com/watch?v=lTHlNa3zy18&feature=youtu.be
 
 Ayrıca videoda açıkladığım projemin tüm dokümanları GitHub'a yüklemiş bulunmaktayım.
