@@ -10,4 +10,6 @@ Yazılım, Rasbian işletim sistminde (default) yüklü olarak gelen Geany platf
 
 Aşağıdaki Youtube Linkinde Proejmi detaylı olarak sunduğum video bulunmaktadır.
 
+Ayrıca videoda açıkladığım projemin tüm dokümanları GitHub'a yüklemiş bulunmaktayım.
+
 
