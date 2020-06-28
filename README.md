@@ -52,20 +52,10 @@ Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda pay
 
 ![11111](https://user-images.githubusercontent.com/64988971/85951622-f1a5c180-b96c-11ea-979a-6a166f816bc0.PNG)
 
-4. Raspberry Pi için Python GPIO kütüphanesini kur.
-    Kurulum için :
-        -wget https://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.11.tar.gz
-        - tar -xvf RPi.GPIO-0.5.11.tar.gz
-        - cd RPi.GPIO-0.5.11
-        - sudo python setup.py install
-5-)Standart USB webcam kütüphanesini kur.
-    Kurulum için :
-        - sudo apt-get install fswebcam
-6-) SSMTP kütüphanesini kur.
-    Kurulum için:
-        - sudo apt-get install ssmtp
-        - sudo apt-get install mailutils
-        - sudo nano /etc/ssmtp/ssmtp.conf
+4. GITHUB sayfasına yüklediğim tüm dosyaları indir (hepsi bir klasörde olsun).
 
+5. Terminal ekranından 4.maddede indirmiş olduğun klasöre git (cd komutuyla). Bu arada Linux işletim sistemine yabancıysanız (https://wiki.ubuntu-tr.net/index.php?title=Temel_Linux_komutlar%C4%B1) adresindeki temel komutları inceleyebilirsiniz.
+
+6. 
 
 
