@@ -56,6 +56,10 @@ Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda pay
 
 5. Terminal ekranından 4.maddede indirmiş olduğun klasöre git (cd komutuyla). Bu arada Linux işletim sistemine yabancıysanız (https://wiki.ubuntu-tr.net/index.php?title=Temel_Linux_komutlar%C4%B1) adresindeki temel komutları inceleyebilirsiniz.
 
-6. 
+6. Komut satısına "Python GpsTracker.py" yaz. 
+
+İşte bu kadar uygulamanın çalıştığını göreceksin.
+
+Eğer bir sorun varsa mutlucinarr@gmail.com adresine mail atabilirsin.
 
 
