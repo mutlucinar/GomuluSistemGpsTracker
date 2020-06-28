@@ -5,7 +5,7 @@ GITHUB sayfasının hazırlanmasındaki amaç   : Projeyi uygulamak isteyen bir 
 ## Projeyi Uygulamak/Gerçekleştirmek
 Projeyi uygulamak istiyorsanız, EK'teki tüm dokümanları indirip, aşağıda linklerini verdiğim videolar izlemeniz ve uygulamanız yeterlidir. Ancak ikinci bir seçenek olarak videoları izlemeden yalnızca github sayfasını okuyarak gerçekleştirmek isteyenler için aşağıda bir bölüm daha oluşturdum.
 
-# Videoları İzleyerek Projeyi Gerçekleştirmek
+### Videoları İzleyerek Projeyi Gerçekleştirmek
 
 1. Aşağıdaki Youtube Linkinde Projemi detaylı olarak sunduğum video bulunmaktadır. (Sunum videosu)                                     
 https://youtu.be/85GnNSOCazk
