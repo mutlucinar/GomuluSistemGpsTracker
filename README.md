@@ -43,9 +43,11 @@ Raspbian İşletim Sistemi. Siz aşina olduğunuz/istediğiniz işletim sistmini
 
 2. Güncelemeleri gerçekleştir. Aslında güncelleme yapmak için bir iki komut (sudo apt-get update) yazmak yeterli. Ama detaylı bilgiye ihtiyacınız varsa (https://www.raspi-tr.com/2012/08/04/raspberry-pi-firmware-guncelleme/) ve (https://siberoloji.github.io/apt-get-update-upgrade-dist-upgrade-farki-nedir/) adreslerini inceleyebilirsiniz.
 
-3. Donanımsal bağlantıları yap. Bunun için GY-NEO6MV2' modülünün Vcc ve GND bağlantılarını Pi'nin ilgili pinlerine bağladıktan sonra yine TX ve RX pinlerini  Pi'nin seri haberleşme yapabildiği pinlerine takmanız yeterli.
+3. Donanımsal bağlantıları yap. Bunun için GY-NEO6MV2' modülünün Vcc ve GND bağlantılarını Pi'nin ilgili pinlerine bağladıktan sonra yine TX ve RX pinlerini  Pi'nin seri haberleşme yapabildiği pinlerine (GPIO 8 ve 10 )takmanız yeterli.
+Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda paylaşıyorum.
 ![gy-neo6mv2-gps-modulu-ucus-kontrol-sistem-gpsi-2103-82-B](https://user-images.githubusercontent.com/64988971/85951275-cd48e580-b96a-11ea-992e-9a7066cb3bd2.jpg)
 ![GPIO-Pinout-Diagram-2](https://user-images.githubusercontent.com/64988971/85951278-cf12a900-b96a-11ea-859f-c6f9ac24b8cf.png)
+İşte bu da benim gerçekleştirdiğim bağlantının resmi ;
 
 4. Raspberry Pi için Python GPIO kütüphanesini kur.
     Kurulum için :
