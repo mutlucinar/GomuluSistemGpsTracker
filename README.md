@@ -2,7 +2,7 @@
 Bu proje Gömülü Sistemler Dersi için hazırlanmıştır.
 GITHUB sayfasının hazırlanmasındaki amaç   : Projeyi uygulamak isteyen bir kişinin kolay yoldan uygulayabilmesi için gerekli herşeyin (kodlar, dokümanlar vs.) tek bir kaynak üzerinden sunulmasıdır. Bu kapsamda kullanılan tüm kodlar, sunum dosyaları, dokümanlar ve uygulama/anlatım videoları vs. bu sayfada paylaşılmıştır.
 
-# Projeyi Uygulamak/Gerçekleştirmek
+## Projeyi Uygulamak/Gerçekleştirmek
 Projeyi uygulamak istiyorsanız, EK'teki tüm dokümanları indirip, aşağıda linklerini verdiğim videolar izlemeniz ve uygulamanız yeterlidir. Ancak ikinci bir seçenek olarak videoları izlemeden yalnızca github sayfasını okuyarak gerçekleştirmek isteyenler için aşağıda bir bölüm daha oluşturdum.
 
 # Videoları İzleyerek Projeyi Gerçekleştirmek
