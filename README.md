@@ -32,28 +32,17 @@ https://www.youtube.com/watch?v=lTHlNa3zy18&feature=youtu.be
 
 1 adet 16gb MicroSd kart
 
-
-
 # Kodları Yazmak İçin Gerekli Yazılım
 Yazılım, Rasbian işletim sisteminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.
 
+# İşletim Sistemi
+Raspbian İşletim Sistemi. Siz aşina olduğunuz/istediğiniz işletim sistmini kullanabilirsiniz.
 
-
-
-
-
-DONANIMLARIN BAĞLANTISI
-
-
-
-
-
-
-
-1-) Raspbian İşletim sistemini Sd karta yükle.
-2-) Güncelemeleri gerçekleştir.
-3-) Donanım Bağlantılarını gerçekleştir.
-4-) Raspberry Pi için Python GPIO kütüphanesini kur.
+# Proje Uygulama Adımları
+1. Raspbian İşletim sistemini Sd karta yükle ve Raspberry Pi'ye tak. Raspbian işletim sistemini (https://www.raspberrypi.org/downloads/) adresinde bulabilirsiniz. 
+2. Güncelemeleri gerçekleştir.
+3. Donanım Bağlantılarını gerçekleştir.
+4. Raspberry Pi için Python GPIO kütüphanesini kur.
     Kurulum için :
         -wget https://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.11.tar.gz
         - tar -xvf RPi.GPIO-0.5.11.tar.gz
