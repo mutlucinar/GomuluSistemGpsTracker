@@ -38,6 +38,11 @@ Yazılım, Rasbian işletim sisteminde (default) yüklü olarak gelen Geany plat
 ### İşletim Sistemi
 Raspbian İşletim Sistemi. Siz aşina olduğunuz/istediğiniz işletim sistmini kullanabilirsiniz.
 
+## Proje'ye Genel Bakış
+Proje genel olarak GPS ve GY-NEO6MV2 Modülü yardımıyla bulunduğumuz konumu alıp kaydetme ve bunu daha sonra Google Maps'te sergileme yapma şeklinde özetlenebilir. 
+![112](https://user-images.githubusercontent.com/64988971/85951842-7b09c380-b96e-11ea-8853-2d4b4bdd2da0.PNG)
+
+
 ## Proje Uygulama Adımları
 1. Raspbian İşletim sistemini Sd karta yükle ve Raspberry Pi'ye tak. Raspbian işletim sistemini (https://www.raspberrypi.org/downloads/) adresinde bulabilirsiniz. 
 
