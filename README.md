@@ -40,8 +40,11 @@ Raspbian İşletim Sistemi. Siz aşina olduğunuz/istediğiniz işletim sistmini
 
 # Proje Uygulama Adımları
 1. Raspbian İşletim sistemini Sd karta yükle ve Raspberry Pi'ye tak. Raspbian işletim sistemini (https://www.raspberrypi.org/downloads/) adresinde bulabilirsiniz. 
-2. Güncelemeleri gerçekleştir.
-3. Donanım Bağlantılarını gerçekleştir.
+
+2. Güncelemeleri gerçekleştir. Aslında güncelleme yapmak için bir iki komut (sudo apt-get update) yazmak yeterli. Ama detaylı bilgiye ihtiyacınız varsa (https://www.raspi-tr.com/2012/08/04/raspberry-pi-firmware-guncelleme/) ve (https://siberoloji.github.io/apt-get-update-upgrade-dist-upgrade-farki-nedir/) adreslerini inceleyebilirsiniz.
+
+3. Donanımsal bağlantıları yap.
+
 4. Raspberry Pi için Python GPIO kütüphanesini kur.
     Kurulum için :
         -wget https://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.11.tar.gz
