@@ -50,8 +50,8 @@ Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda pay
 İşte bu da benim gerçekleştirdiğim bağlantının resmi ;
 ![WhatsApp Image 2020-06-28 at 17 41 19](https://user-images.githubusercontent.com/64988971/85951459-00d83f80-b96c-11ea-8444-eb3bd8583101.jpeg)
 
-                Modül   Raspberry Pi3
-Siyah kablo     Vcc-> GPIO 1 3.3V
+    GY-NEO6MV2 modülü       Raspberry Pi 3b+           
+    Vcc              ->     GPIO 1 3.3V
 
 4. Raspberry Pi için Python GPIO kütüphanesini kur.
     Kurulum için :
