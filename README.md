@@ -2,10 +2,10 @@
 Bu proje Gömülü Sistemler Dersi için hazırlanmıştır.
 GITHUB sayfasının hazırlanmasındaki amaç   : Projeyi uygulamak isteyen bir kişinin kolay yoldan uygulayabilmesi için gerekli herşeyin (kodlar, dokümanlar vs.) tek bir kaynak üzerinden sunulmasıdır. Bu kapsamda kullanılan tüm kodlar, sunum dosyaları, dokümanlar ve uygulama/anlatım videoları vs. bu sayfada paylaşılmıştır.
 
-PROJE UYGULAMASI
+# PROJE UYGULAMASI
 Projeyi uygulamak istiyorsanız, EK'teki tüm dokümanları indirip, aşağıda linklerini verdiğim videolar izlemeniz ve uygulamanız yeterlidir. Ancak ikinci bir seçenek olarak videoları izlemeden yalnızca github sayfasını okuyarak gerçekleştirmek isteyenler için aşağıda bir bölüm daha oluşturdum.
 
-VİDEOLARI İZLEYEREK PROJEYİ GERÇEKLEŞTİRMEK İÇİN;
+# VİDEOLARI İZLEYEREK PROJEYİ GERÇEKLEŞTİRMEK İÇİN;
 
 1. Aşağıdaki Youtube Linkinde Projemi detaylı olarak sunduğum video bulunmaktadır. (Sunum videosu)                                     
 https://youtu.be/85GnNSOCazk
@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=lTHlNa3zy18&feature=youtu.be
 
 
 
-VIDEO IZLEMEDEN DIREKT GITHUB SAYFASINI OKUYARAK GERÇEKLEŞTİRMEK İÇİN;
-Öncelikle aşağıda yazan malzemeleri temin etmeniz gerekmekte. Raspberry pi3b+ yerine sizde bulunan seri haberleşme yapabilen bir  olabilir.
+# VIDEO IZLEMEDEN DIREKT GITHUB SAYFASINI OKUYARAK GERÇEKLEŞTİRMEK İÇİN;
+Öncelikle aşağıda yazan malzemeleri temin etmeniz gerekmekte. Raspberry pi3b+ yerine sizde bulunan seri haberleşme yapabilen bir  olabilir. Ben bu projede mobiliteyi sağlayabilmek için harici güç sağlayabilen bir powerbank tercih ettim. Geliştirme aşamasında powerbank'a ihtiyacınız olmayabilir.
 
-KULLANILAN MALZEMELER
+# KULLANILAN MALZEMELER
 
 1 adet Raspberry Pi 3 B+ (Raspbian işletim sistemi yüklü)
 
@@ -34,9 +34,8 @@ KULLANILAN MALZEMELER
 
 
 
-KODLARI YAZMAK ICIN GEREKLI YAZILIM
-
-(Yazılım, Rasbian işletim sisteminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.)
+# KODLARI YAZMAK ICIN GEREKLI YAZILIM
+Yazılım, Rasbian işletim sisteminde (default) yüklü olarak gelen Geany platformunda Python 2.7 diliyle yazılmıştır.
 
 
 
