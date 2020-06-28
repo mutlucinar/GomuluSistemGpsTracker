@@ -48,6 +48,10 @@ Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda pay
 ![gy-neo6mv2-gps-modulu-ucus-kontrol-sistem-gpsi-2103-82-B](https://user-images.githubusercontent.com/64988971/85951275-cd48e580-b96a-11ea-992e-9a7066cb3bd2.jpg)
 ![GPIO-Pinout-Diagram-2](https://user-images.githubusercontent.com/64988971/85951278-cf12a900-b96a-11ea-859f-c6f9ac24b8cf.png)
 İşte bu da benim gerçekleştirdiğim bağlantının resmi ;
+![WhatsApp Image 2020-06-28 at 17 41 19](https://user-images.githubusercontent.com/64988971/85951459-00d83f80-b96c-11ea-8444-eb3bd8583101.jpeg)
+
+                Modül   Raspberry Pi3
+Siyah kablo     Vcc-> GPIO 1 3.3V
 
 4. Raspberry Pi için Python GPIO kütüphanesini kur.
     Kurulum için :
