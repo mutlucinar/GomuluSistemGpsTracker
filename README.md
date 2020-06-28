@@ -50,6 +50,13 @@ Sizler için GY-NEO6MV2 modülü ve Pi 3b+'ın Pinout resimlerini aşağıda pay
 İşte bu da benim gerçekleştirdiğim bağlantının resmi ;
 ![WhatsApp Image 2020-06-28 at 17 41 19](https://user-images.githubusercontent.com/64988971/85951459-00d83f80-b96c-11ea-8444-eb3bd8583101.jpeg)
 
+
+	GY-NEO6MV2 Modülü	Raspberry Pi 3 b+
+Siyah Kablo	Vcc	GPIO 1 – 3.3V
+Gri Kablo	Rx	GPIO 14 – Tx
+Beyaz Kablo	Tx	GPIO 15 – Rx
+Mor Kablo	Gnd	GPIO 39 - Ground
+
     GY-NEO6MV2 modülü       Raspberry Pi 3b+           
     Vcc              ->     GPIO 1 3.3V
 
